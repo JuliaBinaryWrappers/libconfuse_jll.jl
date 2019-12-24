@@ -1,0 +1,113 @@
+[[libconfuse]]
+arch = "armv7l"
+git-tree-sha1 = "23588e0bdb74bb3876952540bce9fd6eb28892a6"
+libc = "glibc"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "f7a1b6416865659f3f9a237ac4571c8994174b395a2290d5f08792f786d95b53"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.arm-linux-gnueabihf.tar.gz"
+[[libconfuse]]
+arch = "x86_64"
+git-tree-sha1 = "1603a12a25456e2231b7a78e6cc87cb9c43dc8cf"
+libc = "glibc"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "85a5b37d9c7826f5119bf28ba79af76d0b533756c69a8d7f654c7414c28e21a6"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.x86_64-linux-gnu.tar.gz"
+[[libconfuse]]
+arch = "aarch64"
+git-tree-sha1 = "d2d0f5a61fa111b9ea1302f99b7b026751f373f5"
+libc = "musl"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "1c0d18f23e73c5e5fbb5d1f08d4a4d252be5f32ab94607ef0a2b6d177a12a828"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.aarch64-linux-musl.tar.gz"
+[[libconfuse]]
+arch = "powerpc64le"
+git-tree-sha1 = "6bc983cb12802cfd7c27fccc9e4b2ed17ab3e15f"
+libc = "glibc"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "8fea64bf5c2e27b485d6e513dceb6867dd0d8d0a80fec64c13a07a828c828907"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.powerpc64le-linux-gnu.tar.gz"
+[[libconfuse]]
+arch = "x86_64"
+git-tree-sha1 = "8be1534de1d3369049993fb75418c1610fbb881c"
+os = "macos"
+
+    [[libconfuse.download]]
+    sha256 = "4f7a80c970dab32757a1778ceb16ff9f237fd1b7ff631d93e18adcace5525b94"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.x86_64-apple-darwin14.tar.gz"
+[[libconfuse]]
+arch = "x86_64"
+git-tree-sha1 = "1de8b5f52cd38eb41c1f8a3d1df9bee8d6a595ad"
+libc = "musl"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "a2df609cab75d06155f153bf374801dd44462718ce130afbdfc9320075703f49"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.x86_64-linux-musl.tar.gz"
+[[libconfuse]]
+arch = "x86_64"
+git-tree-sha1 = "8b4bdef3ac94840b9ebe1112bfaddb188489921f"
+os = "windows"
+
+    [[libconfuse.download]]
+    sha256 = "7bcafd90cbb69229f256251858492bbf9c5f3a885a911d16c50bf2e63f22302c"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.x86_64-w64-mingw32.tar.gz"
+[[libconfuse]]
+arch = "i686"
+git-tree-sha1 = "b6c479d0bb26ac32013279798089cbc81ee5fd2a"
+libc = "glibc"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "c9016b72183ddd92fd27ac70ed7722aa5dc6b1d32d8af5288a659941cd1fadf4"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.i686-linux-gnu.tar.gz"
+[[libconfuse]]
+arch = "aarch64"
+git-tree-sha1 = "60e5f7f274bac17b1ebed5fbe5702903fcf74322"
+libc = "glibc"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "ed0a5004ece3bd3ba88f937ae306ed7d7c570fc9f43b9536e24bd5ae921c7425"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.aarch64-linux-gnu.tar.gz"
+[[libconfuse]]
+arch = "i686"
+git-tree-sha1 = "6ad06252cf5b0b329d626a72162f2e35f6273eae"
+libc = "musl"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "5f800b6d6d755336272c859469d20e6b40e52c6da7b66e28d8b4b267b4ebe399"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.i686-linux-musl.tar.gz"
+[[libconfuse]]
+arch = "x86_64"
+git-tree-sha1 = "e0d4379db7b5ef5264a88730e5f55809857a0ec6"
+os = "freebsd"
+
+    [[libconfuse.download]]
+    sha256 = "c526b7064b1a71b96440d2cd6de65108da74493555a4b76424ff01b79fc44287"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.x86_64-unknown-freebsd11.1.tar.gz"
+[[libconfuse]]
+arch = "i686"
+git-tree-sha1 = "39b95e95ec51e38de01bed2b296e711c8b929245"
+os = "windows"
+
+    [[libconfuse.download]]
+    sha256 = "8f4557a476c2c1bcd254a6ceedd1b0316c791f55e3a9ab768269ccb7ca229171"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.i686-w64-mingw32.tar.gz"
+[[libconfuse]]
+arch = "armv7l"
+git-tree-sha1 = "606abfeeffeee015325be6ee66a29e82033f2849"
+libc = "musl"
+os = "linux"
+
+    [[libconfuse.download]]
+    sha256 = "b8db60c5cc3cb5e3290bdcc52bba5bd413df9aa702e55b28dfede9efe851230a"
+    url = "https://github.com/JuliaBinaryWrappers/libconfuse_jll.jl/releases/download/libconfuse-v3.2.2+0/libconfuse.v3.2.2.arm-linux-musleabihf.tar.gz"
